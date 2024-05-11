@@ -18,7 +18,6 @@ Increase the maximum number of rows to display the entire DataFrame
 ## Step 6: 
 End the program.
 ## PROGRAM:
-
 ```python
 #To write a python program for reading content from a CSV file.
 #Developed by: PRAVESH.N
@@ -33,6 +32,5 @@ print("Number of columns:",len(df.axes[1]))
 ```
 ### OUTPUT:
 ![11th expt](https://github.com/NPravesh2005/Copy-File/assets/164477756/4ebd6e0f-5133-410a-9742-82ac4bf75343)
-
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
